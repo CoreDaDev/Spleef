@@ -1,0 +1,6 @@
+---
+winAction:
+  # true or false
+  enabled: false
+  command: "say {player} won in the {map} map."
+...

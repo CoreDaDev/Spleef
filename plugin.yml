@@ -1,0 +1,15 @@
+---
+name: Spleef
+api: 3.0.0
+version: 1.0.0
+main: OguzhanUmutlu\Spleef\Spleef
+author: OguzhanUmutlu
+description: Spleef plugin for PocketMine-MP
+commands:
+  spleefleave:
+    description: "§r§eLets you leave from Spleef game."
+  spleefjoin:
+    description: "§r§eLets you join a Spleef game."
+  spleefmenu:
+    description: "§r§eSpleef arena selector menu."
+...
